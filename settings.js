@@ -38,7 +38,7 @@ global.APIKeys = {
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6282135905896'] //ur owner number
-global.ownername = "ᴹᴿ᭄defα͢͢͢ή彡" //ur owner name
-global.ytname = "YT: Defan sugiarto" //ur yt chanel name
-global.socialm = "GitHub: Defan11" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['6283876079421'] //ur owner number
+global.ownername = "YadiBots" //ur owner name
+global.ytname = "404 Not Found" //ur yt chanel name
+global.socialm = "GitHub: Yadi69" //ur github or insta name
+global.location = "indonesia, kalimantan selatan, Bati-Bati" //ur location
 
 //bot bomdy 
-global.owner = ['62821359058966']
-global.ownertag = '6282135905896' //ur tag number
+global.owner = ['6287874352159']
+global.ownertag = '6287874352159' //ur tag number
 global.botname = 'Mizuhara-Mdོ' //ur bot name
 global.linkz = "https://youtube.com/channel/UC472cy5vwLchIqX_i70mLiw" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Defan11" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Mizuhara-Mdོ Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "ᴹᴿ᭄defα͢͢͢ή彡" //ur sticker watermark author
+global.reactmoji = "😈" //ur menu react emoji
+global.themeemoji = "🔥" //ur theme emoji
+global.packname = "YadiBots-Mdོ Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "YadiBots" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
