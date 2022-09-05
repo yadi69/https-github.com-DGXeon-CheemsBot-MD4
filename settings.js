@@ -63,7 +63,7 @@ global.location = "indonesia, kalimantan selatan, Bati-Bati" //ur location
 //bot bomdy 
 global.owner = ['6287874352159']
 global.ownertag = '6287874352159' //ur tag number
-global.botname = 'Mizuhara-Mdོ' //ur bot name
+global.botname = 'Yadi-mdོ' //ur bot name
 global.linkz = "https://youtube.com/channel/UC472cy5vwLchIqX_i70mLiw" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Defan11" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
