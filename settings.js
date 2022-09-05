@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6283876079421'] //ur owner number
-global.ownername = "YadiBots" //ur owner name
+global.ownername = "YadiGanz //ur owner name
 global.ytname = "404 Not Found" //ur yt chanel name
 global.socialm = "GitHub: Yadi69" //ur github or insta name
 global.location = "indonesia, kalimantan selatan, Bati-Bati" //ur location
@@ -63,14 +63,14 @@ global.location = "indonesia, kalimantan selatan, Bati-Bati" //ur location
 //bot bomdy 
 global.owner = ['6287874352159']
 global.ownertag = '6287874352159' //ur tag number
-global.botname = 'Yadi-mdོ' //ur bot name
+global.botname = 'Zyzz-mdོ' //ur bot name
 global.linkz = "https://youtube.com/channel/UC472cy5vwLchIqX_i70mLiw" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Defan11" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "✔️" //ur menu react emoji
 global.themeemoji = "🔥" //ur theme emoji
-global.packname = "YadiBots-Mdོ Bot Stickers By Yadi " //ur sticker watermark packname
-global.author = "YadiBots" //ur sticker watermark author
+global.packname = "ZyzzBot@yadi-Mdོ Bot Stickers By Yadi " //ur sticker watermark packname
+global.author = "ZyzzBot@yadi" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
