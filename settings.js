@@ -67,9 +67,9 @@ global.botname = 'Mizuhara-Mdོ' //ur bot name
 global.linkz = "https://youtube.com/channel/UC472cy5vwLchIqX_i70mLiw" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Defan11" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😈" //ur menu react emoji
+global.reactmoji = "✔️" //ur menu react emoji
 global.themeemoji = "🔥" //ur theme emoji
-global.packname = "YadiBots-Mdོ Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "YadiBots-Mdོ Bot Stickers By Yadi " //ur sticker watermark packname
 global.author = "YadiBots" //ur sticker watermark author
 
 //Bot theme media
@@ -117,7 +117,7 @@ global.mess = {
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    nsfw: 'The nsfw feature has not been activated, please contact the admin yadi to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
